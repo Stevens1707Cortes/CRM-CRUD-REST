@@ -8,7 +8,7 @@ Antes de ejecutar este CRM, asegúrate de tener instalado JsonServer en tu siste
 Clona este repositorio en tu máquina local.
 ### Usando HTTPS
 ```bash
-git clone https://github.com/tu_usuario/repo_crm.git
+git clone https://github.com/Stevens1707Cortes/CRM-CRUD-REST.git
 ```
 ### Usando SSH
 ```bash
